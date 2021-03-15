@@ -1,0 +1,11 @@
+Model Information:
+* title:	MFD100
+* source:	https://sketchfab.com/3d-models/mfd100-608787fde2054d4a8ebb7e9b61e6c68d
+* author:	Interiors3D (https://sketchfab.com/Interiors3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MFD100" (https://sketchfab.com/3d-models/mfd100-608787fde2054d4a8ebb7e9b61e6c68d) by Interiors3D (https://sketchfab.com/Interiors3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
